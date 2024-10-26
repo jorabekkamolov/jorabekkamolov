@@ -16,10 +16,10 @@
 
 ###
 
-<h3 align="left"> 💬 Свяжитесь со мной:</h3>
+<h3 align="center"> 💬 Свяжитесь со мной:</h3>
 
 ###
-<div align="left">
+<div align="center">
     <a href="mailto:jorabekkamolov101@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
@@ -29,17 +29,17 @@
 </div>
 
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="center">🛠 Технологии:</h3>
 
 ###
 
-<p align="left">
+<p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
 ###
 
-<h3 align="left">🔥 Моя статистика:</h3>
+<h3 align="center">🔥 Моя статистика:</h3>
 
 
 ###
