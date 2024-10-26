@@ -21,7 +21,6 @@
 
 
 
-<br>
 <h3 align="left"> 💬 Свяжитесь со мной</h3>
 <div align="left">
     <a href="mailto:jorabekkamolov101@gmail.com">
@@ -32,8 +31,6 @@
     </a>
 </div>
 
-
-<br>
 
 <h3 align="left">🛠 Технологии:</h3>
 
