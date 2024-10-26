@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=804033339720175132" height="514" width="345" frameborder="0" scrolling="no" ></iframe>
+  <img height="514" width="345" src="https://assets.pinterest.com/ext/embed.html?id=804033339720175132" />
 </div>
 
 
