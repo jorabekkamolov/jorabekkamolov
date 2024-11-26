@@ -26,7 +26,7 @@
     <a href="https://t.me/turnerko">
         <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="https://leetcode.com/u/maksim_nikolin/">
+    <a href="https://leetcode.com/u/jorabekkamolov/">
         <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
     </a>
 </div>
